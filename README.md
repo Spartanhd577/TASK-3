@@ -13,12 +13,12 @@
 
 0 -
 
-You can install all packages with npm i 
-To start the services in the login-api project you can use npm run start.
-For vue-carousel you can start it with npm run server
+- You can install all packages with npm i 
+- To start the services in the login-api project you can use npm run start.
+= For vue-carousel you can start it with npm run server
 A test user would be 
-username Niko 
-password: 123456
+- username Niko 
+- password: 123456
 
 ## Task 3
 
