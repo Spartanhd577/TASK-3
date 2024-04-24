@@ -34,25 +34,3 @@ A test user would be
 4 - The product layout must be as a carousel of product list based on the mockup design below:
 
 ![Task 3](/assets/task_3.jpg)
-
-You may use whatever you like to solve these problems Good luck 🤗
-
-## About
-
-<a href="https://minnekdigital.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.minnekdigital.com/logo-sm.jpg">
-    <img alt="Minnek Logo" src="https://assets.minnekdigital.com/logo-sm.jpg">
-  </picture>
-</a>
-
-This project is maintained and funded by Minnek.
-
-We ❤️ open source and do our part in sharing our work with the community!
-See [our other projects][community] or [hire our team][hire] to help build your product.
-
-Want to join? [Check out our Jobs][jobs]!
-
-[community]: https://github.com/Minnek-Digital-Studio
-[hire]: https://minnekdigital.com/
-[jobs]: https://minnekdigital.com/careers
